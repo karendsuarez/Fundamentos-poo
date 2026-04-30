@@ -1,7 +1,8 @@
 #include <iostream>
 
-int main () {
+int main () {3
 
-    
+int x;
+
     return 0;
 }
