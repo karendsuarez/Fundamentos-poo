@@ -4,7 +4,7 @@
 class Coche {
 private:
     //Atributos
-    std::string Fabricante
+    std::string Fabricante;
     int Cilindraje;
     int Potencia;
     std::string Color;
