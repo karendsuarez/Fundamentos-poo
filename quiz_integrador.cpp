@@ -8,13 +8,15 @@ public:
     double Precio;
     int Cant;
 
-    void Descuebto (double Des) {
+    void Descuento (double Des) {
 
     }
 
-
-
 };
+
+class derivadas {
+
+}
 
 
 int main () {
